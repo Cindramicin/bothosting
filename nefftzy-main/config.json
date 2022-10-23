@@ -1,0 +1,16 @@
+{
+  "ownerNumber": ["628988293493@s.whatsapp.net"],
+  "ownerName": ["Ditzzy"],
+  "botName": "Nefftzy",
+  "website": "https://zoldyck.us",
+  "donasiDana": "08988293493",
+  "donasiGopay": "08988293493",
+  "sessionName": "session",
+  "pathimg": "./media/neff.jpg",
+  "gamewaktu": 90,
+  "limitCount": 25,
+  "gcount": {
+	"prem": 35,
+	"user": 15
+  }
+}
